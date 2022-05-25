@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NuevoTaxilog</string>
+
+        <string-array name="taxisid">
+            <item>Vehiculo 1</item>
+            <item>Vehiculo 2</item>
+        </string-array>
+</resources>
